@@ -1,0 +1,21 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+target/
+lib_managed/
+src_managed/
+project/boot/
+.history
+.cache
+*.class
+*.log
+
+# sbt specific
+.lib/
+dist/*
+project/plugins/project/
